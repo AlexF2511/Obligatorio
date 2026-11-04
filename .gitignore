@@ -1,0 +1,6 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/Obligatorio_1/Componentes/obj
+/Obligatorio_1/.vs/Obligatorio_1.slnx
