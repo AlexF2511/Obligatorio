@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="Componentes/Componentes.csproj" />
+  <Project Path="Obligatorio.DAL/Obligatorio.DAL.csproj" Id="2a4d181a-7ab1-4e91-a005-06bf7e9c10cc" />
+  <Project Path="Obligatorio.Entities/Obligatorio.Entities.csproj" Id="f5b6f46c-21ec-4c72-9ae7-5787deebbfdd" />
+  <Project Path="Obligatorio.Interfaz/Obligatorio.Interfaz.csproj" Id="8d59e5cd-758a-478e-ae05-d1739d314866" />
+  <Project Path="Obligatorio.Logica/Obligatorio.Logica.csproj" Id="ad5528fc-3435-4ce8-80e4-301c8fee545c" />
 </Solution>
