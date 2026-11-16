@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Obligatorio.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4966bee8f89976b56947b0cef5fb5eb27f20e16e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f0089fc31c311309eef9136e7da680fe7e9c0d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Obligatorio.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Obligatorio.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
