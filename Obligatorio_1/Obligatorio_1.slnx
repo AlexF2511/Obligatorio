@@ -1,4 +1,8 @@
 <Solution>
+  <Project Path="Database1/Database1.sqlproj" Id="b3396b27-a0aa-49be-a88f-2af9905c6ff9">
+    <Build />
+    <Deploy />
+  </Project>
   <Project Path="Obligatorio.DAL/Obligatorio.DAL.csproj" Id="2a4d181a-7ab1-4e91-a005-06bf7e9c10cc" />
   <Project Path="Obligatorio.Entities/Obligatorio.Entities.csproj" Id="f5b6f46c-21ec-4c72-9ae7-5787deebbfdd" />
   <Project Path="Obligatorio.Interfaz/Obligatorio.Interfaz.csproj" Id="8d59e5cd-758a-478e-ae05-d1739d314866" />
